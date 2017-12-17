@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## The Binding Force..  
+<div style="text-align: justify">
+Step back and take a look ! Computation today has made out lives miraculous. If you are fascinated by its wonderful problem solving capability, than you are at a familiar place.      
+</div>
+<div style="text-align: justify">
+This blog is inspired from a person love for computing. So, come together and let us geek-out about its latest advancements in the areas of machine learning, artificial intelligence, deep learning, data science, evolutionary computing and many more.    
+</div>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### About me
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<div style="text-align: justify">
+I am  a final year PhD. student at Leiden University. The topic of my research is "*Evolutionary Algorithms designing Responsive Metamaterials*". My research made me realize the almost magical capability of computing as a 
+great problem solving tool. The developed interest grew rapidly when I discovered how computing allows machines to learn intelligence through mathematical models: the world of artifical intelligence. Ever so intrigued, this blog is an attempt to give back 
+to the generosity of so many folks on the Internet.       
+</div>

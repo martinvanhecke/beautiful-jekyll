@@ -29,7 +29,7 @@ navbar-links:
     - Metacube: "http://www.markdowntutorial.com/"
     - Origami: "https://pages.github.com/"
   Personal: "http://google.com"
-  About Me/Contact: "http://google.com"
+  About Me/Contact: "aboutme"
   Home: "http://google.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
