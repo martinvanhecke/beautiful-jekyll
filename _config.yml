@@ -29,6 +29,7 @@ navbar-links:
       - Origami: "aboutme"
     - Metacube: "aboutme"
     - Origami: "aboutme" 
+    - Holey Sheet: "aboutme"
   Teaching: "Teaching"
   Personal: "http://google.com"
   About Me/Contact: "aboutme"
