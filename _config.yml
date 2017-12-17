@@ -25,11 +25,15 @@ title: Martin van Hecke
 navbar-links:
   Research:
     - Hydrogels: "aboutme"
-      - Metacube: "aboutme"
-      - Origami: "aboutme"
     - Metacube: "aboutme"
     - Origami: "aboutme" 
     - Holey Sheet: "aboutme"
+    - Metasheet: "aboutme"
+    - Metabeam: "aboutme"
+    - Corregated Sheet: "aboutme"
+    - Evolutionary Design: "aboutme"
+    - Diluted Tilings: "aboutme"
+    - Jamming: "aboutme"
   Teaching: "Teaching"
   Personal: "http://google.com"
   About Me/Contact: "aboutme"
