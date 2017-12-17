@@ -23,11 +23,13 @@ title: Martin van Hecke
 
 # List of links in the navigation bar
 navbar-links:
-  Teaching: "Teaching"
   Research:
-    - Hydrogels: "http://deanattali.com/beautiful-jekyll/"
-    - Metacube: "http://www.markdowntutorial.com/"
-    - Origami: "https://pages.github.com/"
+    - Hydrogels: "aboutme"
+      - Metacube: "aboutme"
+      - Origami: "aboutme"
+    - Metacube: "aboutme"
+    - Origami: "aboutme" 
+  Teaching: "Teaching"
   Personal: "http://google.com"
   About Me/Contact: "aboutme"
   Home: "http://google.com"
