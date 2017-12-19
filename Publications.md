@@ -195,14 +195,14 @@ title: Publications
 </div>
 * <div style="text-align: justify">Luuk A. Lubbers, Martin van Hecke, Corentin Coulais (2017) <i>A nonlinear beam model to describe the postbuckling of wide neo-Hookean beams</i> , Journal of the Mechanics and Physics of Solids, 106, 191-206. <a href="www.google.com">[PDF]</a></div>
 
-## 2008 
+## 2005 
 
 
- * <div style="text-align: justify"> Simon Dagois-Bohy, Ellák Somfai, Brian P. Tighe and Martin van Hecke (2017) <i>Softening and Yielding of Soft Glassy Materials</i>, Soft Matter. <a href="www.google.com">[PDF]</a></div> 
+ * <div style="text-align: justify"> Simon Dagois-Bohy, Ellák Somfai, Brian P. Tighe and Martin van Hecke (2017) <i>Softening and Yielding of Soft Glassy Materials</i>, Soft Matter. <a href="https://www.google.nl/">[PDF]</a></div> 
  <div style="line-height:40%;">
     <br>
 </div>
- * <div style="text-align: justify">Corentin Coulais, Chris Kettenis and Martin van Hecke (2017) <i>A characteristic length scale causes anomalous size eects and boundary programmability in mechanical metamaterials</i> , Nature Physics Advance online publication.<a href="www.google.com">[PDF]</a></div> 
+ * <div style="text-align: justify">Corentin Coulais, Chris Kettenis and Martin van Hecke (2017) <i>A characteristic length scale causes anomalous size eects and boundary programmability in mechanical metamaterials</i> , Nature Physics Advance online publication.<a href="https://www.google.nl/">[PDF]</a></div> 
 <div style="line-height:40%;">
     <br>
 </div>
