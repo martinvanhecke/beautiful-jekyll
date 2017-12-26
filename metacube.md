@@ -2,7 +2,7 @@
 layout: page
 title: The Metacube
 ---
-<object width="720" height="400"
+<object width="750" height="450"
 data="https://www.youtube.com/embed/NxcCtimWxn0">
 </object>
 <br>
