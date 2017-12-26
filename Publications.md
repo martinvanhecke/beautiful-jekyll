@@ -90,3 +90,43 @@ title: Publications
 * <div style="text-align: justify">Scott Waitukaitis, Rémi Menaut, Bryan Gin-ge Chen, and Martin van Hecke (2015) <i>Origami Multistability: From Single Vertices to Metasheets</i>, Physical Review Letters, 114, 055503. <a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/_vti_cnf/PhysRevLett_114_055503.pdf">[PDF]</a></div>
 
 
+## 2014  
+
+
+ * <div style="text-align: justify"> Bastiaan Florijn, Corentin Coulais and Martin van Hecke (2014)  <i>Programmable Mechanical Metamaterials</i>, Physical Review Letters, 113, 175503. <a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/_vti_cnf/PhysRevLett_113_175503.pdf">[PDF]</a></div> 
+ <div style="line-height:40%;">
+    <br>
+</div>
+ * <div style="text-align: justify">Eli Wandersman and Martin van Hecke (2014) <i>Nonlocal granular rheology: Role of pressure and anisotropy, </i>  EPL, 105, 24002.<a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/_vti_cnf/wandersmanEPL2014.pdf">[PDf]</a></div> 
+<div style="line-height:40%;">
+    <br>
+</div>
+* <div style="text-align: justify">Carl P. Goodrich, Simon Dagois-Bohy, Brian P. Tighe, Martin van Hecke, Andrea J. Liu and Sidney R. Nagel (2014) <i> Jamming in finite systems: Stability, anisotropy, fluctuations and scaling, </i>Physical Review E, 90, 022138 Editor.<a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/022138_PhysRevE_90_2014.pdf">[PDF]</a></div>
+<div style="line-height:40%;">
+    <br>
+</div>
+* <div style="text-align: justify">Merlijn S. van Deen, Johannes Simon, Zorana Zeravcic, Simon Dagois-Bohy, Brian P. Tighe, and Martin van Hecke (2014)  <i>Contact changes near jamming</i>, Physical Review E, 90, 020202(R).<a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/020202_R_PhysRevE_90_2014.pdf">[PDF]</a></div>
+<div style="line-height:40%;">
+    <br>
+</div>
+* <div style="text-align: justify">Geert H. Wortel, Joshua A. Dijksman, and Martin van Hecke (2014) <i>Rheology of weakly vibrated granular media</i>, Physical Review E, 89, 012202. <a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/_vti_cnf/PhysRevE_89_012202.pdf">[PDF]</a></div>
+
+
+## 2013  
+
+
+ * <div style="text-align: justify"> Siet van den Wildenberg, Rogier van Loo, and Martin van Hecke (2013)  <i>Shock Waves in Weakly Compressed Granular Media</i>, Physical Review Letters, 111, 218003. <a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/1304.6392v1.pdf">[PDF]</a></div> 
+ <div style="line-height:40%;">
+    <br>
+</div>
+ * <div style="text-align: justify">Gijs Katgert, Brian P. Tighe and Martin van Hecke (2013) <i>The jamming perspective on wet foams, </i>  Soft Matter, C3sm, 51543e.<a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/c3sm51543e.pdf">[PDf]</a></div> 
+<div style="line-height:40%;">
+    <br>
+</div>
+* <div style="text-align: justify">S. van den Wildenberg, M. van Hecke and X. Jia (2013) <i> Evolution of Granular Packings by Nonlinear Acoustic Waves, </i>EPL, 101, 14004.<a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/epl15150-offprints.pdf">[PDF]</a></div>
+<div style="line-height:40%;">
+    <br>
+</div>
+* <div style="text-align: justify">Fall, A., de Cagny, H., Bonn, D., Ovarlez, G., Wandersman, E., Dijksman, J.A., van Hecke, M. (2013)   <i>Rheology of sedimenting particle pastes</i>, Journal of Rheology, 57, 1237.<a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/Rheology-of-sedimenting-particle-pastes.pdf">[PDF]</a></div>
+
+
