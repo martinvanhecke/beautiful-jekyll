@@ -46,6 +46,47 @@ title: Publications
     <br>
 </div>
 * <div style="text-align: justify">Corentin Coulais, Eial Teomy, Koen de Reus, Yair Shokef & Martin van Hecke (2016) <i>Combinatorial design of textured mechanical metamaterials</i>, Nature, 535, 529-532. <a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/Coulais_Nature2016.pdf">[PDF]</a></div>
+<div style="line-height:40%;">
+    <br>
+</div>
 * <div style="text-align: justify">Scott Waitukaitis and Martin van Hecke (2016) <i>Origami building blocks: Generic and special four-vertices</i>, Physical Review E, 93, 023003. <a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/PhysRevE.93.023003.pdf">[PDF]</a></div>
+
+
+## 2015  
+
+
+ * <div style="text-align: justify"> V. Chikkadi, E. Woldhuis, M. van Hecke and P. Schall (2015)  <i>Correlations of strain and plasticity in a flowing foam</i>, EPL, 112, 36004. <a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/2015_EPL_Chikkadi.pdf">[PDF]</a></div> 
+ <div style="line-height:40%;">
+    <br>
+</div>
+ * <div style="text-align: justify">Geert H. Wortel and Martin van Hecke (2015) <i>Anisotropy of weakly vibrated granular flows, </i>  Physical Review E , 92, 040201(R).<a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/_vti_cnf/PhysRevE_92_040201.pdf">[PDf]</a></div> 
+<div style="line-height:40%;">
+    <br>
+</div>
+* <div style="text-align: justify">Pedro M. Reis, Heinrich M. Jaeger, Martin van Hecke (2015) <i> Design Matter: A perspective, </i>Extreme Mechanics Letters,  5, 25-29.<a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/_vti_cnf/EML-main.pdf">[PDF]</a></div>
+<div style="line-height:40%;">
+    <br>
+</div>
+* <div style="text-align: justify">E. Woldhuis, V. Chikkadi, M.S. van Deen, P. Schall and M. van Hecke (2015) <i>Fluctuations in flows near jamming</i>, Soft Matter, 11, 7024-7031.<a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/_vti_cnf/Woldhuissoftmatter.pdf">[PDF]</a></div>
+<div style="line-height:40%;">
+    <br>
+</div>
+* <div style="text-align: justify">Corentin Coulais, Johannes T. B. Overvelde, Luuk A. Lubbers, Katia Bertoldi, and Martin van Hecke (2015) <i>Discontinuous Buckling of Wide Beams and Metabeams</i>, Physical Review Letters, 115, 044301. <a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/_vti_cnf/PhysRevLett_115_044301.pdf">[PDF]</a></div>
+<div style="line-height:40%;">
+    <br>
+</div>
+* <div style="text-align: justify">Wouter G. Ellenbroek, Varda F. Hagh, Avishek Kumar, M.F. Thorpe, and Martin van Hecke (2015) <i>Rigidity Loss in Disordered Systems: Three Scenarios</i>, Rigidity Loss in Disordered Systems: Three Scenarios. <a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/_vti_cnf/PhysRevLett.114.135501.pdf">[PDF]</a></div>
+<div style="line-height:40%;">
+    <br>
+</div>
+* <div style="text-align: justify">Geert Wortel, Tamás Börzsönyi, Ellák Somfai, Sandra Wegner, Balázs Szabó, Ralf Stannarius and Martin van Hecke (2015) <i>Heaping, secondary flows and broken symmetry in flows of elongated granular particles</i>, Soft Matter, Open Access.<a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/_vti_cnf/WortelSM.pdf">[PDF]</a></div>
+<div style="line-height:40%;">
+    <br>
+</div>
+* <div style="text-align: justify">Martin van Hecke (2015) <i>Slow granular flows: The dominant role of tiny fluctuations</i>, Comptes Rendus Physique, 16, 37-44. <a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/_vti_cnf/compte_rendus_16_2015_37_44.pdf">[PDF]</a></div>
+<div style="line-height:40%;">
+    <br>
+</div>
+* <div style="text-align: justify">Scott Waitukaitis, Rémi Menaut, Bryan Gin-ge Chen, and Martin van Hecke (2015) <i>Origami Multistability: From Single Vertices to Metasheets</i>, Physical Review Letters, 114, 055503. <a href="https://www.physics.leidenuniv.nl/images/institute/research/CM/GrM/articles/_vti_cnf/PhysRevLett_114_055503.pdf">[PDF]</a></div>
 
 
