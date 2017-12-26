@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Hydrogels
+title: Hydrogelster
 ---
+<object width="560" height="315"
+data="https://www.youtube.com/watch?v=8hp2B7dGt_A">
+</object>
+
 <div style="text-align: justify">
 Water droplets float in a hot pan because of the so-called Leidenfrost effect. Now physicists have discovered a variation: the Elastic Leidenfrost effect. It explains why hydrogel balls jump around on a hot plate making high pitched sounds. Publication in Nature Physics on July 24.
 </div>
@@ -29,7 +33,5 @@ This phenomenon may look like entertainment but Waitukaitis and colleagues conte
 > Despite what its name suggests, the original Leidenfrost effect was not discovered in Leiden. It is named after its discoverer Johann Gottlob Leidenfrost who lived in Germany in the 1700s. People will not be able to make the same wrong presumption about the origin of the new elastic Leidenfrost effect, as it was actually discovered in Leiden.
 
 
-<object width="420" height="315"
-data="https://www.youtube.com/embed/XGSy3_Czz8k">
-</object>
+
 
