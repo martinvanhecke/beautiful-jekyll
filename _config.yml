@@ -35,7 +35,7 @@ navbar-links:
     - Diluted Tilings: "aboutme"
     - Jamming: "aboutme"
   Publications: "Publications"
-  My Group: "my_group"
+  Our Group: "my_group"
   About Me: "aboutme"
   
 
@@ -57,7 +57,7 @@ avatar: "/img/hecke.jpg"
 # footer-col: "blue"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
- page-img: "/img/main_image1.jpg"
+ page-img: "/img/main_image2.png"
 
 # --- Footer options --- #
 
