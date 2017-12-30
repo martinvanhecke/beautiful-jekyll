@@ -78,7 +78,7 @@ author:
   instagram: yourname # eg. daattali
   youtube: "user/vanheckelab"   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
-  telephone: +31626730025   # eg. +14159998888
+  telephone: +3162896730025   # eg. +14159998888
   steam: yourname     # eg. daattali
   twitch: yourname    # eg. daattali
   yelp: yourname      # eg. daattali
@@ -99,7 +99,7 @@ footer-links-active:
   instagram: false
   youtube: true
   spotify: false
-  telephone: true
+  telephone: false
   steam: false
   twitch: false
   yelp: false
