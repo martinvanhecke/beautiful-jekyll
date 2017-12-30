@@ -2,7 +2,7 @@
 layout: page
 title: Hydrogels
 ---
-<object width="720" height="400"
+<object width="750" height="450"
 data="https://www.youtube.com/embed/8hp2B7dGt_A">
 </object>
 <br>
