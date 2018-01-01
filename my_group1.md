@@ -9,13 +9,24 @@ data="https://image.ibb.co/k70R6b/group2.jpg">
 <br>
 
 
-
+#### Current Group Members
 | Postdoctoral Researchers       | Graduate Students           | Undergraduate Students  |
 | ------------- |:-------------:| -----:|
 | Scott Waitukaitis      | Anne Meeusen | Hans Frijters |
 | Song-Chuan      | Luuk Lubbers      |   Antal Zuiderwijk |
 |  | Nitin Singh      |     |
 |  | Peter Dieleman      |     |
+
+
+#### Past Group Members
+| Postdoctoral Researchers       | Graduate Students           | Undergraduate Students  |
+| ------------- |:-------------:| -----:|
+| Scott Waitukaitis      | Anne Meeusen | Hans Frijters |
+| Song-Chuan      | Luuk Lubbers      |   Antal Zuiderwijk |
+|  | Nitin Singh      |     |
+|  | Peter Dieleman      |     |
+
+
 
 
 
