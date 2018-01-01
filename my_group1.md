@@ -8,14 +8,14 @@ data="https://image.ibb.co/k70R6b/group2.jpg">
 
 <br>
 
-<center>
 
-| POstdoctoral Researchers       | Graduate Students           | Undergraduate Students  |
+
+| Postdoctoral Researchers       | Graduate Students           | Undergraduate Students  |
 | ------------- |:-------------:| -----:|
 | Scott Waitukaitis      | Anne Meeusen | Hans Frijters |
 | Song-Chuan      | Luuk Lubbers      |   Antal Zuiderwijk |
 |  | Nitin Singh      |     |
 |  | Peter Dieleman      |     |
 
-</center>
+
 
