@@ -8,10 +8,11 @@ data="https://image.ibb.co/k70R6b/group2.jpg">
 
 <br>
 
-| Tables       | Are           | Cool  |
+| Postdoctoral Researchers       | Graduate Students           | Undergraduate Students  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Scott Waitukaitis      | Anne Meeusen | Hans Frijters |
+| Song-Chuan      | Luuk Lubbers      |   Antal Zuiderwijk |
+|  | Nitin Singh      |     |
+|  | Peter Dieleman      |     |
 
 
