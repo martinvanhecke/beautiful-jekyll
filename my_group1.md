@@ -5,6 +5,7 @@ title: My Group
 
 ## Current Group Members 
 
-![alt text] (group2.jpg)
-
+<object width="750" height="450"
+data="group2.jpg">
+</object>
 
