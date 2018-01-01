@@ -2,8 +2,6 @@
 layout: page
 title: My Group
 ---
-
-<br>
 <br>
 
 <object width="750" height="450"
