@@ -10,6 +10,7 @@ data="https://image.ibb.co/k70R6b/group2.jpg">
 
 
 #### Current Group Members
+
 | Postdoctoral Researchers       | Graduate Students           | Undergraduate Students  |
 | ------------- |:-------------:| -----:|
 | Scott Waitukaitis      | Anne Meeusen | Hans Frijters |
@@ -19,6 +20,7 @@ data="https://image.ibb.co/k70R6b/group2.jpg">
 
 
 #### Past Group Members
+
 | Postdoctoral Researchers       | Graduate Students           | Undergraduate Students  |
 | ------------- |:-------------:| -----:|
 | Scott Waitukaitis      | Anne Meeusen | Hans Frijters |
