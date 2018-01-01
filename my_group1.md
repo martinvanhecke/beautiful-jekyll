@@ -19,14 +19,14 @@ data="https://image.ibb.co/k70R6b/group2.jpg">
 |  | [Peter Dieleman](https://amolf.nl/people/peter-dieleman)      |     |
 
 <br>
-#### Past Group Members
+####     Previous Group Members 
 
 | Postdoctoral Researchers       | Graduate Students           | Undergraduate Students  |
 | ------------- |:-------------:| -----:|
-| Scott Waitukaitis      | Anne Meeusen | Hans Frijters |
-| Song-Chuan      | Luuk Lubbers      |   Antal Zuiderwijk |
-|  | Nitin Singh      |     |
-|  | Peter Dieleman      |     |
+| [Matthieu Labousse](https://scholar.google.fr/citations?user=Y2CSKk8AAAAJ&hl=fr)      | [Merlijn van Deen](https://www.universiteitleiden.nl/en/staffmembers/merlijn-van-deen#tab-1) | Margherita Botto |
+| [Corentin Coulais](https://coulaislab.com/)      | [Bastiaan Florijn](https://scholar.google.nl/citations?user=-JWFoEIAAAAJ&hl=nl)      |   Frey Wink |
+|  | Geert Wortels      |     |
+|  | Kiri Nichol      |     |
 
 
 
