@@ -17,7 +17,7 @@ baseurl: ""
 title: Martin van Hecke
 
 # Short description of your site
-#description: A virtual proof that name is awesome!
+# description: A virtual proof that name is awesome!
 
 # --- Navigation bar options --- #
 
@@ -35,7 +35,7 @@ navbar-links:
     - Diluted Tilings: "aboutme"
     - Jamming: "aboutme"
   Publications: "Publications"
-  My Group: "my_group"
+  My Group: "my_group1"
   About Me: "aboutme"
   
 
