@@ -7,6 +7,7 @@ data="https://image.ibb.co/k70R6b/group2.jpg">
 </object>
 
 <br>
+<center>
 
 | Postdoctoral Researchers       | Graduate Students           | Undergraduate Students  |
 | ------------- |:-------------:| -----:|
@@ -15,4 +16,5 @@ data="https://image.ibb.co/k70R6b/group2.jpg">
 |  | Nitin Singh      |     |
 |  | Peter Dieleman      |     |
 
+</center>
 
