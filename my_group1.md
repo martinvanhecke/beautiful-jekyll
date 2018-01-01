@@ -2,6 +2,8 @@
 layout: page
 title: My Group
 ---
+<center>
+
 <object width="750" height="450"
 data="https://image.ibb.co/k70R6b/group2.jpg">
 </object>
@@ -19,6 +21,8 @@ data="https://image.ibb.co/k70R6b/group2.jpg">
 |  | [Peter Dieleman](https://amolf.nl/people/peter-dieleman)      |     |
 
 <br>
+
+
 ####     Previous Group Members 
 
 | Postdoctoral Researchers       | Graduate Students           | Undergraduate Students  |
@@ -28,7 +32,7 @@ data="https://image.ibb.co/k70R6b/group2.jpg">
 |  | Geert Wortels      |     |
 |  | Kiri Nichol      |     |
 
-
+</center>
 
 
 
